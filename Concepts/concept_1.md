@@ -6,4 +6,5 @@ Statistics is the useful and common mathematics which is used specially in the d
 
 <h3>Types : </h3>
 A. Descriptive statistics
+<b>
 B. Inferential statistics
