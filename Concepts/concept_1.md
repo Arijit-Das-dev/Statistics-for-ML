@@ -4,11 +4,11 @@
 <h3>Deffinition : </h3>
 Statistics is the useful and common mathematics which is used specially in the domains of Data such as Data science, Data analysis, machine learning and Artificial intelligence.
 
-<u>
+<hr>
 
 <h3>Types : </h3>
 A. Descriptive statistics<br>
 B. Inferential statistics
 
-<u>
+<hr>
 
