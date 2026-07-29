@@ -1,1 +1,1 @@
-<h> STATISTICS </h>
+<h1> STATISTICS </h1>
