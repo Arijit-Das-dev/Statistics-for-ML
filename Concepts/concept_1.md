@@ -12,3 +12,4 @@ B. Inferential statistics
 
 <hr>
 
+<h3> A. Descriptive statistics </h3>
