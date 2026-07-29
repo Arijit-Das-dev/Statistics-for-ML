@@ -1,2 +1,2 @@
 # Statistics-for-ML
-"Start your stats journey from this repo"
+"Start your stats journey today"
