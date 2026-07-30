@@ -22,7 +22,7 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 ### Types of Descriptive Statistics
 
 1. **Central Tendency** – Mean (average), Median, Mode
-2. **Measure of Variability** – Range, Variance, Standard Deviation, IQR
+2. **Measure of Dispersion** – Range, Variance, Standard Deviation, IQR
 3. **Data Representation** – Charts, Graphs, Tables, Frequency Distributions
 
 ---
