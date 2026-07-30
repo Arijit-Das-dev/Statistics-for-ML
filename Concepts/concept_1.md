@@ -29,3 +29,12 @@ Descriptive statistics is a part of maths which helps to summarize, analyse, vis
 
 i. Population mean<br>
 ii. Sample mean
+
+<h4> Median: <h4> <br>
+- When the dataset contains too many outliers and the data is scattered then we have to use median. <br>
+- To know the exact centered value of a dataset, we have to use the median.
+
+- There are two types of mean,
+
+i. Population median<br>
+ii. Sample median
