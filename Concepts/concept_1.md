@@ -46,5 +46,5 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 
 ---
 #### When to use mean and median ??
-- When the data is perfect and no so much outliers then we have to use mean
+- When the data is perfect and there is no outliers then we have to use mean
 - When the data is not symmetric and contains too much outliers then we have to use median.
