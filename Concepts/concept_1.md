@@ -39,8 +39,6 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 - When a dataset contains many outliers or is widely scattered, the median is a more reliable measure than the mean.
 - The median gives the exact center (middle) value of a dataset.
 
----
-
 ### Mode
 
 - To know the most occuring value in a dataset, we have to use mode
