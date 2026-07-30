@@ -40,9 +40,6 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 
 - When a dataset contains many outliers or is widely scattered, the median is a more reliable measure than the mean.
 - The median gives the exact center (middle) value of a dataset.
-- There are two types of median:
-  1. Population median
-  2. Sample median
 
 ---
 #### When to use mean and median ??
