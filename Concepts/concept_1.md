@@ -25,7 +25,7 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 
 ---
 
-## Central Tendency
+## 1. Central Tendency
 
 ### Mean
 
@@ -51,7 +51,7 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 - To know the most occuring value.
 
 ---
-## Measure of Dispersion
+## 2. Measure of Dispersion
 <h5>
 1. Measure of dispersion helps to measure the spread of each data in a dataset.<br>
 2. It helps to identify how much each data is spread from the mean or average.<br>
