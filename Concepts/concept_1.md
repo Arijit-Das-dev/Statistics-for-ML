@@ -19,3 +19,4 @@ Descriptive statistics is a part of maths which helps to summarize, analyse, vis
 1. Central Tendancy = Mean(average) , median, mode<br>
 2. Measure of variability = Range, variance, stadard daviation, IQR<br>
 3. Data representation = Charts, Graphs, tables, frequency distributions
+
