@@ -4,7 +4,7 @@ Statistics is a branch of mathematics widely used in data-driven fields such as 
 
 ---
 
-## Types of Statistics
+## ✔ Types of Statistics
 
 Statistics is divided into two types:
 
@@ -57,7 +57,7 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 4. How much the data is scattered from the middle 
 </h5>
 
-## Types
+## ✔ Types
 
 1. **RANGE** - It calculates the difference between minimum and maximum value in a dataset.
 2. **VARIANCE** - 
