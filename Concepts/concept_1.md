@@ -42,6 +42,12 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 - The median gives the exact center (middle) value of a dataset.
 
 ---
-#### When to use mean and median ??
+
+### Mode
+
+- To know the most occuring value in a dataset, we have to use mode
+
+#### When to use mean and median and mode ??
 - When the data is perfect and there is no outliers then we have to use mean
 - When the data is not symmetric and contains too much outliers then we have to use median.
+- To know the most occuring value.
