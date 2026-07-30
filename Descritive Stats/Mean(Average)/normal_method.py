@@ -1,4 +1,4 @@
-# Mean
+# Mean using normal method
 # Sample mean
 # Population mean
 
