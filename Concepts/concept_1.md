@@ -16,6 +16,6 @@ B. Inferential statistics
 Descriptive statistics is a part of maths which helps to summarize, analyse, visualize and describe the information of a dataset. By the help of descriptive statistics we can easily understand the hidden patterns of any data.
 
 <h4>Types :</h4>
-1. Central Tendancy<br>
-2. Measure of variability<br>
-3. Data representation
+1. Central Tendancy = Mean(average) , median, mode<br>
+2. Measure of variability = Range, variance, stadard daviation, IQR<br>
+3. Data representation = Charts, Graphs, tables, frequency distributions
