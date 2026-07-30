@@ -23,7 +23,7 @@ Descriptive statistics is a part of maths which helps to summarize, analyse, vis
 <hr>
 
 <h2>Central Tendancy :</h2>
-<h4> Mean <h4>: <br>
+<h4> Mean: <h4><br>
 - By the help of mean, we can easily understand the average middle value of any dataset.<br>
 - There are two types of mean,
 
