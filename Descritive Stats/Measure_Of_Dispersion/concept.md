@@ -10,7 +10,7 @@
 1. **RANGE** - It calculates the difference between minimum and maximum value in a dataset.
 2. **VARIANCE** - 
 3. **STANDARD DAVIATION** -
-4. **IQR** -
+4. **IQR** - It identifies where the middle 50% of data is lying.
 5. **MEAN DAVIATION** -
 
 ---
