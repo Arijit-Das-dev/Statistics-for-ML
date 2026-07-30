@@ -1,40 +1,45 @@
-<h1> STATISTICS </h1>
+# Statistics
 
-<p>
-<h3>Deffinition : </h3>
-Statistics is the useful and common mathematics which is used specially in the domains of Data such as Data science, Data analysis, machine learning and Artificial intelligence.
+## Definition
 
-<hr>
+Statistics is a branch of mathematics widely used in data-driven fields such as Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
 
-<h3>Types : </h3>
-A. Descriptive statistics<br>
-B. Inferential statistics
+---
 
-<hr>
+## Types of Statistics
 
-<h3> A. Descriptive statistics </h3>
-Descriptive statistics is a part of maths which helps to summarize, analyse, visualize and describe the information of a dataset. By the help of descriptive statistics we can easily understand the hidden patterns of any data.
+Statistics is divided into two types:
 
-<h4>Types :</h4>
-1. Central Tendancy = Mean(average) , median, mode<br>
-2. Measure of variability = Range, variance, stadard daviation, IQR<br>
-3. Data representation = Charts, Graphs, tables, frequency distributions
+- **A. Descriptive Statistics**
+- **B. Inferential Statistics**
 
-<hr>
+---
 
-<h2>Central Tendancy :</h2>
-<h4> Mean: <h4> <br>
-- By the help of mean, we can easily understand the average middle value of any dataset.<br>
-- There are two types of mean,
+## A. Descriptive Statistics
 
-i. Population mean<br>
-ii. Sample mean
+Descriptive statistics is a branch of mathematics that helps summarize, analyze, visualize, and describe the information within a dataset, making it easier to identify hidden patterns in the data.
 
-<h4> Median: <h4> <br>
-- When the dataset contains too many outliers and the data is scattered then we have to use median. <br>
-- To know the exact centered value of a dataset, we have to use the median.
+### Types of Descriptive Statistics
 
-- There are two types of mean,
+1. **Central Tendency** – Mean (average), Median, Mode
+2. **Measure of Variability** – Range, Variance, Standard Deviation, IQR
+3. **Data Representation** – Charts, Graphs, Tables, Frequency Distributions
 
-i. Population median<br>
-ii. Sample median
+---
+
+## Central Tendency
+
+### Mean
+
+- The mean represents the average value of a dataset.
+- There are two types of mean:
+  1. Population mean
+  2. Sample mean
+
+### Median
+
+- When a dataset contains many outliers or is widely scattered, the median is a more reliable measure than the mean.
+- The median gives the exact center (middle) value of a dataset.
+- There are two types of median:
+  1. Population median
+  2. Sample median
