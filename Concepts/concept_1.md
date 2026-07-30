@@ -15,7 +15,7 @@ B. Inferential statistics
 <h3> A. Descriptive statistics </h3>
 Descriptive statistics is a part of maths which helps to summarize, analyse, visualize and describe the information of a dataset. By the help of descriptive statistics we can easily understand the hidden patterns of any data.
 
-<h4><u> Types : </u></h4>
+<h4>Types :</h4>
 1. Central Tendancy<br>
 2. Measure of variability<br>
 3. Data representation
