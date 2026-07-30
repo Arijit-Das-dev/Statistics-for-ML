@@ -59,8 +59,8 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 
 ## ✔ Types
 
-1. **RANGE** - It calculates the difference between minimum and maximum value in a dataset.
-2. **VARIANCE** - 
+1. **RANGE** - It calculates the difference between maximum and minimum value in a dataset.
+2. **VARIANCE** - It calculates the spread of each data point from the mean / average data point.
 3. **STANDARD DAVIATION** -
 4. **IQR** - It identifies where the middle 50% of data is lying.
 5. **MEAN DAVIATION** -

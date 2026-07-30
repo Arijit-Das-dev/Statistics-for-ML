@@ -2,11 +2,6 @@
 Use case of RANGE :
 
 - We use range to know the difference between max and min value [max - min]
-
-Example :
-- Suppose there is a data of temparature,
-temp = [22, 22, 25, 34, 43, 21]
-
 """
 
 temparature = [22, 22, 25, 34, 43, 21, 45]
