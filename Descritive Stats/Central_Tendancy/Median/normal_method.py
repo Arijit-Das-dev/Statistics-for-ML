@@ -1,2 +1,0 @@
-# Median using normal method
-# 
