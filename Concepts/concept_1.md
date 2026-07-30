@@ -1,7 +1,5 @@
 # Statistics
 
-## Definition
-
 Statistics is a branch of mathematics widely used in data-driven fields such as Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
 
 ---
@@ -53,7 +51,7 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 - To know the most occuring value.
 
 ---
-# Measure of Dispersion
+## Measure of Dispersion
 <h5>
 1. Measure of dispersion helps to measure the spread of each data in a dataset.<br>
 2. It helps to identify how much each data is spread from the mean or average.<br>
