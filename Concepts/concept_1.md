@@ -43,3 +43,8 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 - There are two types of median:
   1. Population median
   2. Sample median
+
+---
+#### When to use mean and median ??
+- When the data is perfect and no so much outliers then we have to use mean
+- When the data is not symmetric and contains too much outliers then we have to use median.
