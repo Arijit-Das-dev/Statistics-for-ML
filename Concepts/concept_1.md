@@ -87,7 +87,7 @@ Such as,
 - Measurements are done in a sample dataset.<br>
 
 <h4> Formula :<h4>
-s² = Σ(xᵢ − x̄)² / (n − 1)
+s² = Σ(xᵢ − x̄)² / (n − 1) <br>
 
 xi - sample data point <br>
 x̄ - sample Mean or average<br>
