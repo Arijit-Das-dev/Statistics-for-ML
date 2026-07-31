@@ -67,8 +67,16 @@ v. **MEAN DAVIATION** -
 
 ---
 
-### RANGE 
+### i. RANGE 
 Range is the difference between maximum and minimum value in a given dataset. It helps to measure the spread of each data point from mean or average.
 
 <h4> Formula :<h4>
 R = max - min
+
+### ii. VARIANCE 
+Variance helps to measure the spread of each data point from the mean or average.
+
+<h4> Formula :<h4>
+\[
+\sigma^2 = \frac{1}{N}\sum_{i=1}^{N}(x_i-\mu)^2
+\]
