@@ -64,3 +64,5 @@ Descriptive statistics is a branch of mathematics that helps summarize, analyze,
 3. **STANDARD DAVIATION** -
 4. **IQR** - It identifies where the middle 50% of data is lying.
 5. **MEAN DAVIATION** -
+
+---
