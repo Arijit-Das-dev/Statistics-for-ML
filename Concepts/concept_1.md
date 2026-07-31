@@ -83,7 +83,7 @@ Such as,
 1. Sample variance <br>
 2. Population variance
 
-<h3><u> 1. Sample Variance </u></h3>
+<h3 style="text-decoration: underline;">text</h3>
 - Measurements are done in a sample dataset.<br>
 
 <h4> Formula :<h4>
