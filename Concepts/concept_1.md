@@ -101,8 +101,15 @@ s² - sample variance
 σ² = Σ(xᵢ − μ)² / N
 
 --- 
-### ii. STANDARD DAVIATION
+### iii. STANDARD DAVIATION
 Standard daviation gives the ultimate value after variance which shows a range between lower value to upper value of a data.
 
 <h4> Formula :<h4>
 σ = √variance
+
+<h4> Why it is useful ? :<h4>
+1. By using standard daviation, we can easily measure how much data is close to the average.
+2. We usually measure three type of standard daviation. such as,
+- 1 SD = 1*SD
+- 2 SD = 2*sd
+- 3 SD = 3*SD
