@@ -24,7 +24,7 @@ def var(data: list) -> float:
     U = mean(data=data)     # AVERAGE OF THE DATASET
     summ = 0
 
-    for i in range(0, len(data)):
+    for i in range(0, N):
         summ = summ + (data[i] - U)**2
 
     variance = summ/N
