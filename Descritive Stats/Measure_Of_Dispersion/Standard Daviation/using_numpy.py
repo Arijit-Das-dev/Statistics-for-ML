@@ -5,7 +5,7 @@ import numpy as np
 data = [0, 2, 4, 5, 6, 8, 10]
 
 """
-σ² = Σ(xᵢ - μ)² / N
+σ² = √ Σ(xᵢ - μ)² / N
 
 xᵢ = Each data point
 μ = Average or mean
