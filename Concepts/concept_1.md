@@ -93,4 +93,4 @@ s² = Σ(xᵢ − x̄)² / (n − 1)
 - Measurements are done in whole dataset.<br>
 
 <h4> Formula :<h4>
-s² = Σ(xᵢ − x̄)² / (n − 1)
+σ² = Σ(xᵢ − μ)² / N
