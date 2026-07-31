@@ -77,6 +77,4 @@ R = max - min
 Variance helps to measure the spread of each data point from the mean or average.
 
 <h4> Formula :<h4>
-\[
-\sigma^2 = \frac{1}{N}\sum_{i=1}^{N}(x_i-\mu)^2
-\]
+σ² = Σ(xᵢ − μ)² / N
