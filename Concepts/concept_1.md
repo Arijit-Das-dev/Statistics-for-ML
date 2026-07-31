@@ -119,3 +119,5 @@ Standard daviation gives the ultimate value after variance which shows a range b
 2 Standard Daviation is considered as 95% of the data, by measuring 2 SD, we can easily find out how much data is lying withing the 2nd standard daviation.
 
 3 standard daviation is considered as 99.7% of the data, by measuring 3 SD, we can easily find out how much data is lying below 95% and 68% of the data.
+
+## **Note**
