@@ -68,7 +68,7 @@ v. **MEAN DAVIATION** -
 ---
 
 ### RANGE 
-Range is the difference between maximum and minimum value in a given dataset. It helps to measure the spread of each data point from mean or average. <br>
+Range is the difference between maximum and minimum value in a given dataset. It helps to measure the spread of each data point from mean or average.
 
 <h4> Formula :<h4>
 R = max - min
