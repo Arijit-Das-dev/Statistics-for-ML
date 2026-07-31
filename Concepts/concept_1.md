@@ -89,6 +89,11 @@ Such as,
 <h4> Formula :<h4>
 s² = Σ(xᵢ − x̄)² / (n − 1)
 
+xi - sample data point <br>
+x̄ - sample Mean or average<br>
+n - sample size<br>
+s² - sample variance
+
 <h3><u> 1. Population Variance </u></h3>
 - Measurements are done in whole dataset.<br>
 
