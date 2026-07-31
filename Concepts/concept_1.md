@@ -110,8 +110,8 @@ Standard daviation gives the ultimate value after variance which shows a range b
 ## Why it is useful ? :
 1. By using standard daviation, we can easily measure how much data is close to the average.
 2. We usually measure three type of standard daviation. such as,
-**1 SD = 1*SD**
-**2 SD = 2*sd**
-**3 SD = 3*SD**
+- **1 SD = 1*SD**
+- **2 SD = 2*sd**
+- **3 SD = 3*SD**
 
 1 Standard Daviation gives a range where some values falls within that range which is mostly close to the average. We can easily measure how and which data points are mostly close and consistant. which is mostly considered as 68% of the data.
