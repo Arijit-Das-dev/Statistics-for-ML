@@ -74,7 +74,8 @@ Range is the difference between maximum and minimum value in a given dataset. It
 {R = max - min}
 
 ### ii. VARIANCE 
-Variance helps to measure the spread of each data point from the mean or average. We measure the spread of the data points by two types of variance. Such as,
+Variance helps to measure the spread of each data point from the mean or average. We measure the spread of the data points by two types of variance.If the variance means the difference of each data point from the mean is low or in close range , then it is highly consistant.If the variance of each data point is too far from the mean or average then it is low consistant or not perfect.
+Such as,
 
 <h5> Types : </h5>
 1. Sample variance <br>
@@ -82,9 +83,8 @@ Variance helps to measure the spread of each data point from the mean or average
 
 <hr>
 <h5> 1. Sample Variance </h5>
-- Sample variance measures how the data is scattered from the mean in a sample data.<br>
-- If the variance means the difference of each data point from the mean is low or in close range , then it is highly consistant.
-- If the variance of each data point is too far from the mean or average then it is low consistant or not perfect.
+- Measurements are done in a sample dataset.<br>
 
 <h4> Formula :<h4>
 s² = Σ(xᵢ − x̄)² / (n − 1)
+
