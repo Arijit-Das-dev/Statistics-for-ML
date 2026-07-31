@@ -99,3 +99,10 @@ s² - sample variance
 
 <h4> Formula :<h4>
 σ² = Σ(xᵢ − μ)² / N
+
+--- 
+### ii. STANDARD DAVIATION
+Standard daviation gives the ultimate value after variance which shows a range between lower value to upper value of a data.
+
+<h4> Formula :<h4>
+σ = √variance
