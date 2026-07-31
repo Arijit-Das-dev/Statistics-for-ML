@@ -83,13 +83,13 @@ Such as,
 1. Sample variance <br>
 2. Population variance
 
-<h5> 1. Sample Variance </h5>
+<h3> 1. Sample Variance </h3>
 - Measurements are done in a sample dataset.<br>
 
 <h4> Formula :<h4>
 s² = Σ(xᵢ − x̄)² / (n − 1)
 
-<h5> 1. Population Variance </h5>
+<h3> 1. Population Variance </h3>
 - Measurements are done in whole dataset.<br>
 
 <h4> Formula :<h4>
