@@ -71,7 +71,7 @@ v. **MEAN DAVIATION** -
 Range is the difference between maximum and minimum value in a given dataset. It helps to measure the spread of each data point from mean or average.
 
 <h4> Formula :<h4>
-R = max - min
+{R = max - min}
 
 ### ii. VARIANCE 
 Variance helps to measure the spread of each data point from the mean or average. We measure the spread of the data points by two types of variance. Such as,
@@ -79,3 +79,4 @@ Variance helps to measure the spread of each data point from the mean or average
 <h5> Types : </h5>
 1. Sample variance <br>
 2. Population variance
+
